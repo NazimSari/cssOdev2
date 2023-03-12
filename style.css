@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  width: 100%;
+  text-align: center;
+  margin-top: 100px;
+}
+.google {
+  width: 100%;
+  text-align: center;
+  background-color: #cccccc;
+}
+div p {
+  padding: 1px;
+}
+.search {
+  margin: 2px;
+  width: 250px;
+}
+button {
+  padding: 3px;
+  box-shadow: 1px 1px #939393;
+}
+.conteiner {
+  display: flex;
+  justify-content: space-around;
+
+  height: 100px;
+}
+.box {
+  margin: 1px;
+  background-color: aquamarine;
+  width: 100%;
+  text-align: center;
+}
+ul li {
+  list-style: none;
+}
+ul {
+  padding: 15px;
+}
+.copy {
+  text-align: center;
+}
